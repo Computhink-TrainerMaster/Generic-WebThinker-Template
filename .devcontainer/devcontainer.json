@@ -1,0 +1,10 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vsliveshare.vsliveshare",  // Live Share extension
+                "ritwickdey.LiveServer"  // Live Server extension
+            ]
+        }
+    }
+}
