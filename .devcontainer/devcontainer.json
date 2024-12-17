@@ -3,7 +3,7 @@
         "vscode": {
             "extensions": [
                 "ms-vsliveshare.vsliveshare",  // Live Share extension
-                "ritwickdey.LiveServer"  // Live Server extension
+                "ritwickdey.LiveServer",  // Live Server extension
                 "vsls-contrib.gitdoc"  // Ensure GitDoc is listed here for automatic installation
             ],
             "settings": {
